@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning for CCNP and CEH certifications
 - 💞️ I’m looking to collaborate on any project related to my field of studies
 - 📫 How to reach me ...
-- 😄 Pronouns: Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Try Harder!!!"
 
 <!---
